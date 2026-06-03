@@ -1,11 +1,11 @@
 ## name
 Avantika Arun Jadhav
-##college
+## college
 TKIET Warananagar
-##skill
+## skill
 c c++
-##Career goals
+## Career goals
 Become a software engineer
-##Intenship objective
+## Intenship objective
 Gain Practical Knowledge
 
